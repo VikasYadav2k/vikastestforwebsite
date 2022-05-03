@@ -1,0 +1,52 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 03 May 2022 11:53:00 at https://www.infosecmaestros.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.infosecmaestros.com/ -O1 "C:\My Web Sites\Subhash sir" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:55:07	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/images/team/small/3.jpg (from https://www.infosecmaestros.com/)
+11:55:07	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/images/team/small/2.jpg (from https://www.infosecmaestros.com/)
+11:55:07	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/images/team/small/4.jpg (from https://www.infosecmaestros.com/)
+11:55:07	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/images/team/small/1.jpg (from https://www.infosecmaestros.com/)
+11:55:07	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/fonts/glyphicons-halflings-regular.eot (from https://www.infosecmaestros.com/css/bootstrap.css)
+11:55:07	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/fonts/glyphicons-halflings-regular.eot? (from https://www.infosecmaestros.com/css/bootstrap.css)
+11:55:07	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/fonts/glyphicons-halflings-regular.woff (from https://www.infosecmaestros.com/css/bootstrap.css)
+11:55:07	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/fonts/glyphicons-halflings-regular.ttf (from https://www.infosecmaestros.com/css/bootstrap.css)
+11:55:07	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/fonts/glyphicons-halflings-regular.svg (from https://www.infosecmaestros.com/css/bootstrap.css)
+11:55:07	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/css/grabbing.png (from https://www.infosecmaestros.com/css/owl.carousel.css)
+11:55:07	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/css/AjaxLoader.gif (from https://www.infosecmaestros.com/css/owl.carousel.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/images_02/ui/arrow-down-form.png (from https://www.infosecmaestros.com/css/style.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/images_02/ui/arrow-down-form-hover.png (from https://www.infosecmaestros.com/css/style.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/images_02/dotted.png (from https://www.infosecmaestros.com/css/style.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/images_02/icon-slide-plus.png (from https://www.infosecmaestros.com/css/style.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/images_02/icon-slide-min.png (from https://www.infosecmaestros.com/css/style.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/images_02/close.png (from https://www.infosecmaestros.com/css/style.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/images_02/close-2.png (from https://www.infosecmaestros.com/css/style.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/images_02/icon-url.png (from https://www.infosecmaestros.com/css/style.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/images_02/icon-zoom.png (from https://www.infosecmaestros.com/css/style.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/images_02/list-arrow.png (from https://www.infosecmaestros.com/css/style.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/images_02/page-loader.gif (from https://www.infosecmaestros.com/css/style.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/images_02/ui/arrow-down.png (from https://www.infosecmaestros.com/css/style.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/images_02/ui/arrow-up.png (from https://www.infosecmaestros.com/css/style.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/images_02/ui/arrow-down-dark.png (from https://www.infosecmaestros.com/css/style.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/images_02/ui/arrow-up-dark.png (from https://www.infosecmaestros.com/css/style.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/fonts/et-line-font/fonts/et-line.eot (from https://www.infosecmaestros.com/fonts/et-line-font/style.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/fonts/et-line-font/fonts/et-line.eot? (from https://www.infosecmaestros.com/fonts/et-line-font/style.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/fonts/et-line-font/fonts/et-line.ttf (from https://www.infosecmaestros.com/fonts/et-line-font/style.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/fonts/et-line-font/fonts/et-line.svg (from https://www.infosecmaestros.com/fonts/et-line-font/style.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/fonts/elegant_font/HTML_CSS/fonts/ElegantIcons.eot (from https://www.infosecmaestros.com/fonts/elegant_font/HTML_CSS/style.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/fonts/elegant_font/HTML_CSS/fonts/ElegantIcons.eot? (from https://www.infosecmaestros.com/fonts/elegant_font/HTML_CSS/style.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/fonts/elegant_font/HTML_CSS/fonts/ElegantIcons.ttf (from https://www.infosecmaestros.com/fonts/elegant_font/HTML_CSS/style.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/fonts/elegant_font/HTML_CSS/fonts/ElegantIcons.svg (from https://www.infosecmaestros.com/fonts/elegant_font/HTML_CSS/style.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/images/background/p8.jpg (from https://www.infosecmaestros.com/css/bg.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/fonts/font-awesome/fonts/fontawesome-webfont.eot?v=4.6.3 (from https://www.infosecmaestros.com/fonts/font-awesome/css/font-awesome.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/fonts/font-awesome/fonts/fontawesome-webfont.eot? (from https://www.infosecmaestros.com/fonts/font-awesome/css/font-awesome.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 (from https://www.infosecmaestros.com/fonts/font-awesome/css/font-awesome.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/fonts/font-awesome/fonts/fontawesome-webfont.woff?v=4.6.3 (from https://www.infosecmaestros.com/fonts/font-awesome/css/font-awesome.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/fonts/font-awesome/fonts/fontawesome-webfont.ttf?v=4.6.3 (from https://www.infosecmaestros.com/fonts/font-awesome/css/font-awesome.css)
+11:55:13	Error: 	"Not Found" (404) at link https://www.infosecmaestros.com/fonts/font-awesome/fonts/fontawesome-webfont.svg?v=4.6.3 (from https://www.infosecmaestros.com/fonts/font-awesome/css/font-awesome.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 13 seconds : 139 links scanned, 97 files written (3445471 bytes overall) [3463560 bytes received at 26041 bytes/sec], 31000 bytes transferred using HTTP compression in 1 files, ratio 25%
+(41 errors, 0 warnings, 0 messages)
